@@ -1,0 +1,42 @@
+.app-container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 800px;
+}
+.post-card{
+  margin: 20px 50px;
+  min-width: 30rem ;
+}
+.hashtag{
+  margin : 0px 3px
+}
+.reactions{
+  width: 100%;
+  margin: 15px  0px 0px 0px;
+}
+.message{
+  margin-top: 20px;
+}
+.message:hover{
+  background-color: #212529;
+  color: white;
+}
+.create-post{
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+.Button{
+  margin-left: 40%;
+}
+.cards{
+  height: 500px;
+}
+.spinner{
+  margin: 10% 0;
+}
